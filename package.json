@@ -1,0 +1,22 @@
+{
+  "name": "rdt-push-plugin",
+  "version": "1.0.0",
+  "description": "Plugin for push icons for native android for rdt",
+  "main": "IconPlugin.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Triplebg/rdt-push-plugin.git"
+  },
+  "keywords": [
+    "icon"
+  ],
+  "author": "TripleBG",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Triplebg/rdt-push-plugin/issues"
+  },
+  "homepage": "https://github.com/Triplebg/rdt-push-plugin#readme"
+}
